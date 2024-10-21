@@ -51,8 +51,8 @@ Clone this repository or Download the files into your local system.
 streamlit run Deployment.py
 ```
 Login page:  (Use credentials to login into the course recommendation page)
-Username: sv
-Password: 611885
+1. Username: sv
+2. Password: 611885
 
 - Make sure you have streamlit installed on your local device, if not installed, type the following to install (windows) : 
 
