@@ -4,19 +4,12 @@ A course recommendation system using the Coursera Courses dataset which contains
 
 The model has been trained using a dataset of 3,000 courses! Find the dataset [here 🔗](https://www.kaggle.com/khusheekapoor/coursera-courses-dataset-2021)
 
-Link to my Kaggle Notebook [here 🔗](https://www.kaggle.com/sagarbapodara/coursera-course-recommendation-system-webapp)
-
-Check out the demo of the application on Youtube [here 🔗](https://youtu.be/9hQPhsIZsoA)
-
-Use the application live [here 🔗](https://huggingface.co/spaces/SagarBapodara/Coursera-Course-Recommendation)
-
 ## Tech Used 
 
 **Language:** Python (3.9)
 
 **Front-End:** Streamlit
 
-_Please Note that this technology is being used for the latest version. Further improvements in the project may result in changes in the technology used. It will be updated above as well._ 
 
 ## Installation / Working
 
@@ -64,21 +57,6 @@ streamlit run main.py
 pip install streamlit 
 ```
 
-## Working Demo 
-
-The demo working of this web app can be found [here 🔗](https://youtu.be/9hQPhsIZsoA) | Do like it, if you watch it :) 
-
-## 🚀 Thanks
-
-Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :)
+Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! 
 
 **If you found it useful, leave a ⭐ here!**
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-Ending Credits 
-- Made using Python and Streamlit
-- @Author : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
-
