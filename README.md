@@ -1,19 +1,19 @@
 # Coursera-Course-Recommendation-System
+Application can be viewed here: http://localhost:8501/
 
 A course recommendation system using the Coursera Courses dataset which contains over 3,000 courses. 
 
 The model has been trained using a dataset of 3,000 courses! Find the dataset [here 🔗](https://www.kaggle.com/khusheekapoor/coursera-courses-dataset-2021)
 
-## Tech Used 
+## Tech Used: 
 
-**Language:** Python (3.9)
+Language: Python (3.9)
+Front-End: Streamlit
 
-**Front-End:** Streamlit
 
+## Installation / Working:
 
-## Installation / Working
-
-### Requirements
+### Requirements:
 
 ```bash
 beautifulsoup4==4.10.0
@@ -48,8 +48,11 @@ Clone this repository or Download the files into your local system.
 - Type the following command (for web app) : 
 
 ```bash
-streamlit run main.py
+streamlit run Deployment.py
 ```
+Login page:  (Use credentials to login into the course recommendation page)
+Username: sv
+Password: 611885
 
 - Make sure you have streamlit installed on your local device, if not installed, type the following to install (windows) : 
 
